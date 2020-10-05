@@ -1,7 +1,9 @@
-# About-me
-Hey there, I am Behzod, 24 years old, a Software Engineer
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=behzod1996&show_icons=true&include_all_commits=true&theme=algolia" alt="Behzod's github stats"/>
-<br/>
- </p>
+### Hey 👋, I'm [Behzod!]
+<a href="https://twitter.com/behzodhalilov96">
+  <img align="left" alt="Behzod Bozorboev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/behzod-bozorboev-08808a1b9//">
+  <img align="left" alt="Pulkit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+![Behzod's github stats](https://github-readme-stats.vercel.app/api?username=behzod1996&show_icons=true&hide_border=true)
 **Languages and Tools:**
