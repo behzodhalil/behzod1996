@@ -10,23 +10,32 @@
 Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I'm in Seoul.
 <br/>
 <br/>
+
 <b>
+
 - 🛠 Currently working with Kotlin, Java, C++, Firebase;
+
 <br/>
+
 - 💬 Ask me about anything, I am happy to help;
+
 <br/>
+
 - ⚡️ Anything is possible;
+
+<br/>
+
+- 📫 How to reach me: behzoddev@gmail.com
+
 <b/>
+<br/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=behzod1996&show_icons=true">
+</p>
 <br/>
     <img align="left" height="500" width="750" alt="GIF" src="https://github.com/behzod1996/behzod1996/blob/main/developer-gif.gif" />
 <br/>
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchelen-gov)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=behzod1996&show_icons=true">
-</p>
 
 
 
