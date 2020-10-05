@@ -17,14 +17,13 @@ Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I
 <br/>
 - ⚡️ Anything is possible;
 <b/>
-    <img align="right" height="250" width="450" alt="GIF" src="https://github.com/behzod1996/About-e/blob/main/developer-gif.gif" />
+    <img align="left" height="250" width="450" alt="GIF" src="https://github.com/behzod1996/About-e/blob/main/developer-gif.gif" />
 <br/>
 <br/>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=behzod1996&show_icons=true">
 </p>
-<br/>
- <img align="left" height="250" width="450" alt="GIF" src="https://github.com/behzod1996/About-e/blob/main/developer-gif.gif" />
+
  <br/>
  <br/>
 <b> Languagees and Tools: </b>
