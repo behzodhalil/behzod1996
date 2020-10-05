@@ -7,7 +7,15 @@
 </a>
 <br/>
 <br/>
+
+Hi, I'm Behzod Bozorboev, a Mobile Developer, who loves exploring different stuff, currently I'm a Android Mentor at
+
+<br/>
+<br/>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=behzod1996&show_icons=true">
 </p>
-**Languages and Tools:**
+<br/>
+<p align="left">
+  <img sr="https://github-readme-stats.vercel.app/api/top-langs/?username=behzod1996&hide=css,html,C%2">
+  </p>
