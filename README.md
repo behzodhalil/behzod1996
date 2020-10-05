@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Behzod!]
+### Hey 👋, I'm [Behzod!] [![HitCount](http://hits.dwyl.com/behzod1996/{project}.svg)](http://hits.dwyl.com/behzod1996/{project})
 <a href="https://twitter.com/behzodhalilov96">
   <img align="left" alt="Behzod Bozorboev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
