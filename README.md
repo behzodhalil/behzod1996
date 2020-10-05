@@ -18,14 +18,6 @@ Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I
 - ⚡️ Anything is possible;
 <b/>
 <br/>
-    <img align="left" height="250" width="445" alt="GIF" src="https://github.com/behzod1996/About-e/blob/main/developer-gif.gif" />
-<br/>
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behzod1996&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=behzod1996&show_icons=true">
-</p>
- <br/>
 <b> Languagees and Tools: </b>
 <br/>
 <br/>
@@ -36,3 +28,10 @@ Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+    <img align="right" height="250" width="445" alt="GIF" src="https://github.com/behzod1996/About-e/blob/main/developer-gif.gif" />
+<br/>
+<br/>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=behzod1996&show_icons=true">
+</p>
+ <br/>
