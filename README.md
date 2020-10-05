@@ -24,8 +24,6 @@ Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=behzod1996&show_icons=true">
 </p>
-
- <br/>
  <br/>
 <b> Languagees and Tools: </b>
 <br/>
