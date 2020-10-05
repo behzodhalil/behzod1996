@@ -19,8 +19,7 @@ Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I
 <b/>
 <br/>
 <br/>
-
-    <img align="left" height="500" width="500" alt="GIF" src="https://github.com/behzod1996/behzod1996/blob/main/behzod-developer.gif" />
+    <img align="left" height="500" width="800" alt="GIF" src="https://github.com/behzod1996/behzod1996/blob/main/behzod-developer.gif" />
 <br/>
 <br/>
 <p align="left">
