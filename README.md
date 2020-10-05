@@ -8,6 +8,6 @@
 <br/>
 <br/>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=behzod1996i&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=behzod1996&show_icons=true">
 </p>
 **Languages and Tools:**
