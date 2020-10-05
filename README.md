@@ -6,16 +6,16 @@
   <img align="left" alt="Pulkit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br/>
-<br/>
 
-Hi, I'm Behzod Bozorboev, a Mobile Developer, who loves exploring different stuff, currently I'm a Android Mentor at
-
-<br/>
-<br/>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=behzod1996&show_icons=true">
 </p>
 <br/>
-<p align="left">
-  <img sr="https://github-readme-stats.vercel.app/api/top-langs/?username=behzod1996&hide=css,html,C%2">
-  </p>
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
