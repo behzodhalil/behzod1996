@@ -15,15 +15,9 @@ Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I
 
 - 🛠 Currently working with Kotlin, Java, C++, Firebase;
 
-<br/>
-
 - 💬 Ask me about anything, I am happy to help;
 
-<br/>
-
 - ⚡️ Anything is possible;
-
-<br/>
 
 - 📫 How to reach me: behzoddev@gmail.com
 
@@ -35,9 +29,7 @@ Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I
 <br/>
     <img align="left" height="500" width="750" alt="GIF" src="https://github.com/behzod1996/behzod1996/blob/main/developer-gif.gif" />
 <br/>
-<br/>
-
-
+<br/
 
  <br/>
  <br/>
