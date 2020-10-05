@@ -5,7 +5,14 @@
 <a href="https://www.linkedin.com/in/behzod-bozorboev-08808a1b9//">
   <img align="left" alt="Pulkit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br/>
+<br/>
 Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I'm in Seoul.
+<br/>
+<br/>
+- 🛠 Currently working with Kotlin, Java, C++, Firebase;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Anything is possible;
 <br/>
 <br/>
 <p align="left">
