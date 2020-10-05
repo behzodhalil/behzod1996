@@ -5,5 +5,8 @@
 <a href="https://www.linkedin.com/in/behzod-bozorboev-08808a1b9//">
   <img align="left" alt="Pulkit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-![Behzod's github stats](https://github-readme-stats.vercel.app/api?username=behzod1996&show_icons=true&hide_border=true)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Younes-Charfaoui&show_icons=true">
+</p>
 **Languages and Tools:**
