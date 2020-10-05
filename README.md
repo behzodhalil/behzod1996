@@ -10,11 +10,15 @@
 Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I'm in Seoul.
 <br/>
 <br/>
-- 🛠 Currently working with Kotlin, Java, C++, Firebase;
+code {
+  font-family: monospace;
+  - 🛠 Currently working with Kotlin, Java, C++, Firebase;
 <br/>
 - 💬 Ask me about anything, I am happy to help;
 <br/>
 - ⚡️ Anything is possible;
+}
+
 <br/>
 <br/>
 <p align="left">
