@@ -21,7 +21,8 @@ Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I
     <img align="left" height="250" width="445" alt="GIF" src="https://github.com/behzod1996/About-e/blob/main/developer-gif.gif" />
 <br/>
 <br/>
-<p align="left">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behzod1996&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=behzod1996&show_icons=true">
 </p>
  <br/>
@@ -35,4 +36,4 @@ Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behzod1996&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
