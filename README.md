@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/behzod-bozorboev-08808a1b9//">
   <img align="left" alt="Pulkit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I'm in Seoul.
 <br/>
 <br/>
 <p align="left">
