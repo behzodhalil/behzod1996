@@ -1,4 +1,4 @@
-### Hey, I`m Bekhzod  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   [![HitCount](http://hits.dwyl.com/behzod1996/{project}.svg)](http://hits.dwyl.com/behzod1996/{project})
+### Hey, I`m Bekhzod  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   
 <a href="https://twitter.com/behzodhalilov96">
   <img align="left" alt="Behzod Bozorboev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
