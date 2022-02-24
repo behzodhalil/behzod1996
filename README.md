@@ -13,14 +13,20 @@ Hi, I'm Bekzhod Bozorboev, a Mobile Developer 🚀 from Uzbekistan, currently, I
 
 <b>
 
-- 🛠 Currently working with Kotlin, Java, C++, Firebase;
-
-- 💬 Ask me about anything, I am happy to help;
-
-- ⚡️ Anything is possible;
-
-- 📫 How to reach me: behzoddev@gmail.com
-
+```kotlin
+val behzod = developer {
+    about {
+        name = "Behzod"
+        company = Mooing
+        role = Android Engineer
+    }
+    tech("Kotlin", "Android". "SQL")
+    links {
+        telegram = "@behzoddev"
+        linkedin = "https://www.linkedin.com/in/behzod-bozorboev-08808a1b9/"
+    }
+}
+```
 <b/>
 <br/>
 <p align="left">
