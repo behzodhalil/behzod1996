@@ -16,7 +16,7 @@ val behzod = developer {
         company = Mooing
         role = Android Engineer
     }
-    tech ("Kotlin", "Android")
+    tech ("Kotlin", "Android", "SQL", "Networking")
     links {
         telegram = "@behzoddev"
         linkedin = "https://www.linkedin.com/in/behzod-bozorboev-08808a1b9/"
