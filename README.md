@@ -20,6 +20,7 @@ val behzod = developer {
     links {
         telegram = "@behzoddev"
         linkedin = "https://www.linkedin.com/in/behzod-bozorboev-08808a1b9/"
+        twitter = "@behzodhalilov96"
     }
 }
 ```
