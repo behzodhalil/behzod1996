@@ -19,7 +19,7 @@ val behzod = developer {
     tech ("Kotlin", "Android", "SQL", "Networking")
     links {
         telegram = "@behzoddev"
-        linkedin = "https://www.linkedin.com/in/behzod-bozorboev-08808a1b9/"
+        linkedin = "Behzod Halil"
         twitter = "@behzodhalilov96"
     }
 }
