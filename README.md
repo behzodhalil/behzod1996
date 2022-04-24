@@ -13,7 +13,7 @@
 val behzod = developer {
     about {
         name = "Behzod"
-        company = Mooing
+        company = Semicon Networks
         role = Android Engineer
     }
     tech ("Kotlin", "Android", "SQL", "Networking")
