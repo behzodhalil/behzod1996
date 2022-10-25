@@ -22,6 +22,9 @@ val behzod = developer {
         linkedin = "Behzod Halil"
         twitter = "@behzodhalilov96"
     }
+    choose {
+        goal = "Do something great"
+    }
 }
 ```
 <b/>
