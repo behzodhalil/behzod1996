@@ -26,7 +26,9 @@ val behzod = developer {
         goal = "Do something great"
     }
     quotes {
-        quote = "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.(Martin Fowler)"
+        quote = 
+        "Any fool can write code that a computer can understand." +  
+        "Good programmers write code that humans can understand.(Martin Fowler)"
     }
 }
 ```
